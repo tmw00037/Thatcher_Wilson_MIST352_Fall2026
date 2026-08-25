@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\thatc\\OneDrive\\Documents\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\Task1.csproj",
       "projectName": "Task1",
       "projectPath": "C:\\Users\\thatc\\OneDrive\\Documents\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\thatc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\thatc\\OneDrive\\Documents\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\thatc\\Desktop\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\Task1.csproj",
+      "projectName": "Task1",
+      "projectPath": "C:\\Users\\thatc\\Desktop\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\Task1.csproj",
+      "packagesPath": "C:\\Users\\thatc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thatc\\Desktop\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\obj\\",
+>>>>>>> 90c74ec2f4970a6fa0c30e1c18e33279b1c22999
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\thatc\\AppData\\Roaming\\NuGet\\NuGet.Config",

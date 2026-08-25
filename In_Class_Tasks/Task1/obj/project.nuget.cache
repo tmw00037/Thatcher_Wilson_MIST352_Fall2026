@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "5Z1xcsydBf8=",
   "success": true,
   "projectFilePath": "C:\\Users\\thatc\\OneDrive\\Documents\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\Task1.csproj",
+=======
+  "dgSpecHash": "i3Bj/UQ4ZxQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thatc\\Desktop\\MIST352_Fall2026\\Thatcher_Wilson_MIST352_Fall2026\\In_Class_Tasks\\Task1\\Task1.csproj",
+>>>>>>> 90c74ec2f4970a6fa0c30e1c18e33279b1c22999
   "expectedPackageFiles": [],
   "logs": []
 }
