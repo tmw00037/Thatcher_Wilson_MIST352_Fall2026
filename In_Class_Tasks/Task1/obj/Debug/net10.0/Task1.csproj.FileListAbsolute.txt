@@ -1,0 +1,15 @@
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.exe
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.deps.json
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.runtimeconfig.json
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.dll
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.pdb
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.AssemblyInfoInputs.cache
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.AssemblyInfo.cs
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.sourcelink.json
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.dll
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\refint\Task1.dll
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.pdb
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.genruntimeconfig.cache
+C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\ref\Task1.dll
