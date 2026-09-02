@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> bd20cd6660ac6998819ef17e2c4b71aabb7d12b7
 C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.exe
 C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.deps.json
 C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.runtimeconfig.json
@@ -13,3 +17,23 @@ C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2
 C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.pdb
 C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.genruntimeconfig.cache
 C:\Users\thatc\OneDrive\Documents\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\ref\Task1.dll
+<<<<<<< HEAD
+=======
+=======
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.exe
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.deps.json
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.runtimeconfig.json
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.dll
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\bin\Debug\net10.0\Task1.pdb
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.AssemblyInfoInputs.cache
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.AssemblyInfo.cs
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.sourcelink.json
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.dll
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\refint\Task1.dll
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.pdb
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\Task1.genruntimeconfig.cache
+C:\Users\thatc\Desktop\MIST352_Fall2026\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task1\obj\Debug\net10.0\ref\Task1.dll
+>>>>>>> 90c74ec2f4970a6fa0c30e1c18e33279b1c22999
+>>>>>>> bd20cd6660ac6998819ef17e2c4b71aabb7d12b7
