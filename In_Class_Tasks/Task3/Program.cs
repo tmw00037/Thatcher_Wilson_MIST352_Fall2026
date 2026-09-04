@@ -20,6 +20,8 @@
             string strPart5 = splittedMsg[4];
             Console.WriteLine($"Alert:{strPart1.ToUpper().Replace(", ",",")}");
             Console.WriteLine($"Agent:{strPart1.Split(',')[1]}");
+            Console.WriteLine($"{strPart2}");
+
 
         }
    }
