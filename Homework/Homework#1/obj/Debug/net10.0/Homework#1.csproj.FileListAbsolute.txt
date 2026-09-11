@@ -1,0 +1,16 @@
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\bin\Debug\net10.0\Homework#1.exe
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\bin\Debug\net10.0\Homework#1.deps.json
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\bin\Debug\net10.0\Homework#1.runtimeconfig.json
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\bin\Debug\net10.0\Homework#1.dll
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\bin\Debug\net10.0\Homework#1.pdb
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.AssemblyInfoInputs.cache
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.AssemblyInfo.cs
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.csproj.CoreCompileInputs.cache
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.sourcelink.json
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.dll
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\refint\Homework#1.dll
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.pdb
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.genruntimeconfig.cache
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\ref\Homework#1.dll
+C:\Users\thatc\Desktop\MIST352\Thatcher_Wilson_MIST352_Fall2026\Homework\Homework#1\obj\Debug\net10.0\Homework#1.csproj.Up2Date
