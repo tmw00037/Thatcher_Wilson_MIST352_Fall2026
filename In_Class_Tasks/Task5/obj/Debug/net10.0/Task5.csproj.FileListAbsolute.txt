@@ -1,0 +1,16 @@
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\bin\Debug\net10.0\Task5.exe
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\bin\Debug\net10.0\Task5.deps.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\bin\Debug\net10.0\Task5.runtimeconfig.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\bin\Debug\net10.0\Task5.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\bin\Debug\net10.0\Task5.pdb
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.AssemblyInfoInputs.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.AssemblyInfo.cs
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.csproj.CoreCompileInputs.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.sourcelink.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\refint\Task5.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.pdb
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.genruntimeconfig.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\ref\Task5.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task5\obj\Debug\net10.0\Task5.csproj.Up2Date
