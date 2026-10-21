@@ -1,0 +1,6 @@
+1001,John Smith,3.85
+1002,Jane Doe,3.45
+1003,Michael Brown,2.75
+1004,Sarah Wilson,1.85
+1005,David Jones,3.95
+1006,Emily Davis,3.10
