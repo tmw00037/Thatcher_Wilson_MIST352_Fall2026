@@ -1,0 +1,16 @@
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\bin\Debug\net10.0\Oct27.ERD Code.exe
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\bin\Debug\net10.0\Oct27.ERD Code.deps.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\bin\Debug\net10.0\Oct27.ERD Code.runtimeconfig.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\bin\Debug\net10.0\Oct27.ERD Code.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\bin\Debug\net10.0\Oct27.ERD Code.pdb
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.AssemblyInfoInputs.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.AssemblyInfo.cs
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.csproj.CoreCompileInputs.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.sourcelink.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\refint\Oct27.ERD Code.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.pdb
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ERD Code.genruntimeconfig.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\ref\Oct27.ERD Code.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\Practice\Oct27.ERD Code\obj\Debug\net10.0\Oct27.ER.966A019F.Up2Date
