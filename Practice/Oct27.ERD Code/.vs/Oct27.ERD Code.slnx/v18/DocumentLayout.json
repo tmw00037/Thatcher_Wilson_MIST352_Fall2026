@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\MIST352\\Thatcher_Wilson_MIST352_Fall2026\\Practice\\Oct27.ERD Code\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|solutionrelative:circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378C81E1-471E-4DA7-84DC-F6FE0EAEF1EB}|Oct27.ERD Code.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|d:\\mist352\\thatcher_wilson_mist352_fall2026\\practice\\oct27.erd code\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DFD98B-4062-9EF5-462F-766F54C36122}|Oct27.ERD Code.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CIRCLE.cs",
               "DocumentMoniker": "D:\\MIST352\\Thatcher_Wilson_MIST352_Fall2026\\Practice\\Oct27.ERD Code\\CIRCLE.cs",
               "RelativeDocumentMoniker": "CIRCLE.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "COURSE.cs",
               "DocumentMoniker": "D:\\MIST352\\Thatcher_Wilson_MIST352_Fall2026\\Practice\\Oct27.ERD Code\\COURSE.cs",
               "RelativeDocumentMoniker": "COURSE.cs",
@@ -59,25 +59,24 @@
               "RelativeToolTip": "COURSE.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T16:08:25.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T16:08:25.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "STUDENT.cs",
               "DocumentMoniker": "D:\\MIST352\\Thatcher_Wilson_MIST352_Fall2026\\Practice\\Oct27.ERD Code\\STUDENT.cs",
               "RelativeDocumentMoniker": "STUDENT.cs",
-              "ToolTip": "D:\\MIST352\\Thatcher_Wilson_MIST352_Fall2026\\Practice\\Oct27.ERD Code\\STUDENT.cs",
-              "RelativeToolTip": "STUDENT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ToolTip": "D:\\MIST352\\Thatcher_Wilson_MIST352_Fall2026\\Practice\\Oct27.ERD Code\\STUDENT.cs*",
+              "RelativeToolTip": "STUDENT.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-27T15:51:16.997Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MIST352\\Thatcher_Wilson_MIST352_Fall2026\\Practice\\Oct27.ERD Code\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
