@@ -1,0 +1,16 @@
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\bin\Debug\net10.0\Task9_LLM.exe
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\bin\Debug\net10.0\Task9_LLM.deps.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\bin\Debug\net10.0\Task9_LLM.runtimeconfig.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\bin\Debug\net10.0\Task9_LLM.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\bin\Debug\net10.0\Task9_LLM.pdb
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.GeneratedMSBuildEditorConfig.editorconfig
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.AssemblyInfoInputs.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.AssemblyInfo.cs
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.csproj.CoreCompileInputs.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.sourcelink.json
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\refint\Task9_LLM.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.pdb
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.genruntimeconfig.cache
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\ref\Task9_LLM.dll
+D:\MIST352\Thatcher_Wilson_MIST352_Fall2026\In_Class_Tasks\Task9_LLM\obj\Debug\net10.0\Task9_LLM.csproj.Up2Date
